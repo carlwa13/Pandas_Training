@@ -1,4 +1,4 @@
 # Pandas_Training
 This is a repo for Pandas-Python datascience trainig.
-Please notice that the data in this reposetory wasn't created by me.
+Pleace note that this repo is just for learning purpeses.
 The code is just for begginers and as a storage of basic pandas know how.
